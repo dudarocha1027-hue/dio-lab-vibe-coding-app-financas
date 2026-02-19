@@ -44,48 +44,33 @@ A importância de organização e documentação no GitHub
 Como transformar uma ideia em um projeto estruturado
 
 Evidências
-1) Execução do Prompt e Início da Implementação
+Evidências do desenvolvimento com Lovable
 
-![Execução do Prompt](assets/Captura de tela 2026-02-19 120917.png)
+Prompt utilizado no Lovable
 
-Nesta imagem é possível visualizar o momento em que o prompt estruturado foi enviado ao Lovable solicitando a implementação do MVP completo com as 5 telas (Dashboard, Transações, Categorias, Metas e IA Insights), incluindo tema escuro, gráficos com Recharts e uso de LocalStorage.
+![Prompt enviado](assets/prompt1-lovably.png)
+
+Nesta imagem é possível visualizar o prompt estruturado (PRD) enviado ao Lovable solicitando a implementação do MVP completo com as 5 telas, tema escuro financeiro, gráficos e armazenamento local.
 
 
-2) Confirmação da Implementação do MVP
+2) Resposta da IA confirmando implementação
 
-![Implementação do MVP](assets/Captura de tela 2026-02-19 133805.png)
+![Resposta do Lovable](assets/resposta1-lovably.png)
 
-Aqui é possível observar a resposta do Lovable confirmando a implementação das etapas do projeto:
+Aqui observamos a confirmação da IA indicando:
 - Setup do design system
 - Construção do layout e navegação
-- Implementação das 5 telas
+- Implementação das 5 telas do MVP
 
 
-3) Estrutura do Dashboard no Preview
+3) Dashboard do FinAI Planner (Preview final)
 
-![Dashboard Preview](assets/Captura de tela 2026-02-19 133815.png)
+![Dashboard final](assets/evidência-dashboard.png)
 
-Nesta imagem é exibido o preview do Dashboard do FinAI Planner, contendo:
+Nesta imagem vemos o preview do Dashboard do aplicativo, contendo:
 - Cards de Receita, Despesa e Saldo
-- Layout com tema escuro
-- Estrutura organizada e responsiva
+- Gráfico de comparação (Receitas vs Despesas)
+- Tema escuro moderno
+- Menu lateral com navegação entre as telas
 
-
-4) Gráficos e Visualização Financeira
-
-![Gráficos](assets/Captura de tela 2026-02-19 134000.png)
-
-Esta evidência apresenta a área de gráficos do Dashboard, incluindo o comparativo "Receitas vs Despesas (6 meses)".
-
-
-5) Navegação entre Telas do MVP
-
-![Navegação e Estrutura](assets/Captura de tela 2026-02-19 134012.png)
-
-A imagem mostra o menu lateral com as cinco seções principais:
-- Dashboard
-- Transações
-- Categorias
-- Metas
-- IA Insights
 
